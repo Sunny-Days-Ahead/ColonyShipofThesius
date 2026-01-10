@@ -57,5 +57,7 @@ metadata/_custom_type_script = "uid://c10s4eou115bk"
 [resource]
 script = ExtResource("2_17w0v")
 prompt = "Some other horrible thing happened"
+sfx = &"explosion"
+screen_shake = true
 options = Array[ExtResource("1_8wlp0")]([SubResource("Resource_8wlp0"), SubResource("Resource_17w0v"), SubResource("Resource_6ffwn")])
 metadata/_custom_type_script = "uid://dg3vktrd0ncvi"

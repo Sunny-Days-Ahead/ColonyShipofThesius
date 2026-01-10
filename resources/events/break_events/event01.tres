@@ -57,5 +57,7 @@ metadata/_custom_type_script = "uid://c10s4eou115bk"
 [resource]
 script = ExtResource("3_7uit4")
 prompt = "You've clipped an asteroid!"
+sfx = &"explosion"
+screen_shake = true
 options = Array[ExtResource("1_24egp")]([SubResource("Resource_umigm"), SubResource("Resource_g4ipu"), SubResource("Resource_lokso")])
 metadata/_custom_type_script = "uid://dg3vktrd0ncvi"

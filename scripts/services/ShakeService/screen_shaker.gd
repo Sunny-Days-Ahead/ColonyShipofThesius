@@ -21,7 +21,7 @@ var _shake_time_remaining: float = 0.0
 var _shake_intensity: float = 0.0
 
 
-func _physics_process(delta: float) -> void:
+func _process(delta: float) -> void:
 	if _shake_time_remaining > 0:
 		_noise_sample += delta * noise_sample_speed
 		_shake_time_remaining -= delta
