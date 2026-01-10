@@ -25,6 +25,8 @@ func get_next_event() -> void:
 func fill_prompt() -> void:
 	prompt_textbox.text = current_event.prompt
 
+	current_event.do_event()
+
 	for child in button_container.get_children():
 		child.queue_free()
 
