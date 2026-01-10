@@ -1,0 +1,8 @@
+[gd_resource type="Resource" script_class="SfxLib" load_steps=3 format=3 uid="uid://dqdgrwjgipuuc"]
+
+[ext_resource type="Script" uid="uid://b6hi5xg067hen" path="res://scripts/services/SFXService/SfxData.gd" id="1_qr3e3"]
+[ext_resource type="Script" uid="uid://b1jgdfewgyjk0" path="res://scripts/services/SFXService/SfxLib.gd" id="2_i1gyi"]
+
+[resource]
+script = ExtResource("2_i1gyi")
+metadata/_custom_type_script = "uid://b1jgdfewgyjk0"
