@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c43puancjb3hx"
-path="res://.godot/imported/Space-Contract.png-6f78e9fdcdad558a1b3d3c2dfeb7f059.ctex"
+path="res://.godot/imported/Space-Contract.png-edabeb520169ac3edc9847a817de4e30.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://ColonyShipofThesius/fonts/space_contract/Space-Contract.png"
-dest_files=["res://.godot/imported/Space-Contract.png-6f78e9fdcdad558a1b3d3c2dfeb7f059.ctex"]
+source_file="res://fonts/space_contract/Space-Contract.png"
+dest_files=["res://.godot/imported/Space-Contract.png-edabeb520169ac3edc9847a817de4e30.ctex"]
 
 [params]
 

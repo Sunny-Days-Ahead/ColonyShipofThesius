@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://bva8tabbeif1e"
-path="res://.godot/imported/Logic_Loop_Cutout.ttf-a7f4d250bf11bb29355dd701f1675e9b.fontdata"
+path="res://.godot/imported/Logic_Loop_Cutout.ttf-8d8388f344ae48fcd362cd1e328f01d3.fontdata"
 
 [deps]
 
-source_file="res://ColonyShipofThesius/fonts/logic_loop/Logic_Loop_Cutout.ttf"
-dest_files=["res://.godot/imported/Logic_Loop_Cutout.ttf-a7f4d250bf11bb29355dd701f1675e9b.fontdata"]
+source_file="res://fonts/logic_loop/Logic_Loop_Cutout.ttf"
+dest_files=["res://.godot/imported/Logic_Loop_Cutout.ttf-8d8388f344ae48fcd362cd1e328f01d3.fontdata"]
 
 [params]
 

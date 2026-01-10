@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://duu7f5vj0ulkv"
-path="res://.godot/imported/Space_Contract_Cutout.ttf-2253548ffe48d0906d1b959643b59d5e.fontdata"
+path="res://.godot/imported/Space_Contract_Cutout.ttf-b0f31a0b456bc60020b87892f45f5a9b.fontdata"
 
 [deps]
 
-source_file="res://ColonyShipofThesius/fonts/space_contract/Space_Contract_Cutout.ttf"
-dest_files=["res://.godot/imported/Space_Contract_Cutout.ttf-2253548ffe48d0906d1b959643b59d5e.fontdata"]
+source_file="res://fonts/space_contract/Space_Contract_Cutout.ttf"
+dest_files=["res://.godot/imported/Space_Contract_Cutout.ttf-b0f31a0b456bc60020b87892f45f5a9b.fontdata"]
 
 [params]
 

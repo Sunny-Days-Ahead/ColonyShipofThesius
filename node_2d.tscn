@@ -1,9 +1,9 @@
 [gd_scene load_steps=6 format=3 uid="uid://cwk4vn2lpchjv"]
 
-[ext_resource type="Script" uid="uid://bcihqyyrqg6jy" path="res://ColonyShipofThesius/new_script.gd" id="1_wtcfe"]
-[ext_resource type="Resource" uid="uid://cg5dtdqxqppl4" path="res://ColonyShipofThesius/Events/event01.tres" id="2_0e48y"]
-[ext_resource type="Script" uid="uid://dg3vktrd0ncvi" path="res://ColonyShipofThesius/event.gd" id="2_0hol4"]
-[ext_resource type="Resource" uid="uid://h082u4yiglwr" path="res://ColonyShipofThesius/Events/event02.tres" id="4_q6r6c"]
+[ext_resource type="Script" uid="uid://bcihqyyrqg6jy" path="res://new_script.gd" id="1_wtcfe"]
+[ext_resource type="Resource" uid="uid://cg5dtdqxqppl4" path="res://Events/event01.tres" id="2_0e48y"]
+[ext_resource type="Script" uid="uid://dg3vktrd0ncvi" path="res://event.gd" id="2_0hol4"]
+[ext_resource type="Resource" uid="uid://h082u4yiglwr" path="res://Events/event02.tres" id="4_q6r6c"]
 
 [sub_resource type="PlaceholderTexture2D" id="PlaceholderTexture2D_y32ns"]
 

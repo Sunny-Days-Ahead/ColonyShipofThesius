@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://bvldty32c8b5f"
-path="res://.godot/imported/Space_Contract_Monospaced.ttf-4f4eb4d4cb208ed20025a5e38cc2c1f1.fontdata"
+path="res://.godot/imported/Space_Contract_Monospaced.ttf-0c2aac2ed1d2d47a8d347dc4a9ad266e.fontdata"
 
 [deps]
 
-source_file="res://ColonyShipofThesius/fonts/space_contract/Space_Contract_Monospaced.ttf"
-dest_files=["res://.godot/imported/Space_Contract_Monospaced.ttf-4f4eb4d4cb208ed20025a5e38cc2c1f1.fontdata"]
+source_file="res://fonts/space_contract/Space_Contract_Monospaced.ttf"
+dest_files=["res://.godot/imported/Space_Contract_Monospaced.ttf-0c2aac2ed1d2d47a8d347dc4a9ad266e.fontdata"]
 
 [params]
 
