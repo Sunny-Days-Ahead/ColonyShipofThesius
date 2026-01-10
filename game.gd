@@ -1,5 +1,5 @@
 class_name Game
-extends Node
+extends Control
 
 var ship: Ship
 

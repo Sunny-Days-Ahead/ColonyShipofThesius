@@ -1,4 +1,4 @@
-extends Node
+extends VBoxContainer
 
 @export_category("Controls")
 @export var prompt_textbox: Label

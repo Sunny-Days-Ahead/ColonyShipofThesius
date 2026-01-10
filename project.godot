@@ -21,6 +21,18 @@ Constants="*res://scripts/constants.gd"
 NodeFinder="*res://scripts/services/node_finder.gd"
 SfxService="*res://scripts/services/SFXService/SFXService.gd"
 
+[display]
+
+window/size/viewport_width=960
+window/size/viewport_height=540
+window/stretch/mode="viewport"
+window/stretch/scale_mode="integer"
+
 [global_group]
 
 game=""
+
+[rendering]
+
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
