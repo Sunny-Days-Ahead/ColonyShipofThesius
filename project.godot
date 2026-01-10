@@ -11,6 +11,6 @@ config_version=5
 [application]
 
 config/name="Colony of Thesius"
-run/main_scene="uid://cwk4vn2lpchjv"
+run/main_scene="uid://e10cthxf2bhx"
 config/features=PackedStringArray("4.5", "Forward Plus")
 config/icon="res://ColonyShipofThesius/icon.svg"
