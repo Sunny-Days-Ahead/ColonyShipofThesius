@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="SfxLib" load_steps=9 format=3 uid="uid://dqdgrwjgipuuc"]
+[gd_resource type="Resource" script_class="SfxLib" format=3 uid="uid://dqdgrwjgipuuc"]
 
 [ext_resource type="Script" uid="uid://b6hi5xg067hen" path="res://scripts/services/SFXService/SfxData.gd" id="1_qr3e3"]
 [ext_resource type="Script" uid="uid://b1jgdfewgyjk0" path="res://scripts/services/SFXService/SfxLib.gd" id="2_i1gyi"]
